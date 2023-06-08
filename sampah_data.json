@@ -1,0 +1,45 @@
+{
+    "cardboard": {
+      "Deskripsi": "Karton adalah jenis bahan kemasan yang terbuat dari bahan berbasis serat kayu, seperti kardus tebal. Biasanya digunakan untuk membuat kotak, wadah, atau bungkus untuk melindungi atau mengemas barang-barang. Karton sering digunakan dalam industri pengemasan yang memiliki sifat yang kuat dan tahan terhadap tekanan. Contoh umum karton adalah kotak kemasan makanan, kotak kardus, atau kotak mainan.",
+      "Daur Ulang": "Ya",
+      "Pembuangan": "Sebaiknya didaur ulang daripada dibuang ke tempat pembuangan sampah umum.",
+      "Cara Daur Ulang": "Karton dapat didaur ulang dengan mengumpulkannya, membersihkannya dari kontaminasi lain seperti plastik atau kertas yang melekat, dan memprosesnya menjadi serat karton untuk membuat produk karton baru.",
+      "Dampak Lingkungan": "Daur ulang karton mengurangi penggunaan kayu dan energi yang dibutuhkan untuk produksi karton baru."
+    },
+    "glass": {
+      "Deskripsi": "Kaca adalah benda padat yang transparan dan tembus cahanya, biasanya terbuat dari silika. Kaca memiliki sifat keras dan rapuh yang digunakan untuk pembuatan jendela, botol, gelas, dan barang pecah belah lainnya. Kaca bisa memiliki berbagai warna dan dapat diatur ulang untuk membuat produk kaca baru.",
+      "Daur Ulang": "Ya",
+      "Pembuangan": "Sebaiknya didaur ulang daripada dibuang ke tempat pembuangan sampah umum.",
+      "Cara Daur Ulang": "Kaca dapat didaur ulang dengan memisahkan berdasarkan warna, menghancurkannya menjadi serpihan kaca, dan melelehkannya menjadi cairan kaca untuk membuat produk kaca baru.",
+      "Dampak Lingkungan": "Daur ulang kaca mengurangi penggunaan sumber daya alam, energi, dan emisi gas rumah kaca terkait dengan produksi kaca baru."
+    },
+    "metal": {
+      "Deskripsi": "Logam adalah bahan padat yang terdiri dari unsur-unsur logam. Beberapa logam umum termasuk besi, aluminium, tembaga, seng, dan baja. Logam memiliki kekuatan, konduktivitas panas dan listrik. Logam digunakan dalam industri konstruksi, transportasi, elektronik, dan peralatan rumah tangga. Contoh logam adalah kaleng minuman, kawat, pipa, dan peralatan dapur",
+      "Daur Ulang": "Ya",
+      "Pembuangan": "Sebaiknya didaur ulang daripada dibuang ke tempat pembuangan sampah umum.",
+      "Cara Daur Ulang": "Logam dapat didaur ulang dengan memisahkannya dari material lain seperti plastik atau karet, lalu memprosesnya melalui peleburan dan pemurnian untuk membuat logam baru.",
+      "Dampak Lingkungan": "Daur ulang logam mengurangi pencemaran tanah dan air, serta penggunaan sumber daya alam dan energi."
+    },
+    "paper": {
+      "Deskripsi": "Kertas adalah bahan yang terbuat dari serat selulosa yang diperoleh dari kayu atau tumbuhan lainnya, digunakan untuk berbagai bentuk seperti kertas tulis, koran, majalah, dan kertas kemasan.",
+      "Daur Ulang": "Ya, dapat didaur ulang.",
+      "Pembuangan": "Sebaiknya didaur ulang daripada dibuang ke tempat pembuangan sampah umum.",
+      "Cara Daur Ulang": "Kertas dapat didaur ulang dengan memisahkannya dari kontaminasi lain seperti plastik atau logam, lalu memprosesnya menjadi serat kertas yang dapat digunakan untuk membuat produk kertas baru.",
+      "Dampak Lingkungan": "Daur ulang kertas mengurangi penggunaan sumber daya alam."
+    },
+    "plastic": {
+      "Deskripsi": "Plastik adalah bahan sintetis yang terbuat dari polimer, digunakan secara luas karena ringan, tahan air, dan mudah dibentuk.",
+      "Daur Ulang": "Ya",
+      "Pembuangan": "Plastik harus dibuang dengan benar melalui tempat sampah daur ulang pastik atau tempat sampah biasa, terpisah dari sampah organik dan bahan lainnya.",
+      "Cara Daur Ulang": "Proses daur ulang plastik melibatkan tahap pengumpulan, pemisahan, pencucian, pelelehan, dan pembentukan ulang menjadi produk plastik baru, seperti botol plastik, kemasan, atau serat tekstil.",
+      "Dampak Lingkungan": "Plastik memiliki dampak negatif terhadap lingkungan. Plastik yang tidak terurai dengan cepat dapat mengakumulasi di lingkungan, termasuk lautan dan daratan. Sampah plastik dapat membahayakan hewan laut dan burung yang memakan atau terjerat olehnya. Proses produksi plastik juga menghasilkan emisi gas rumah kaca dan menghabiskan sumber daya alam yang tidak terbarukan. Oleh karena itu, daur ulang plastik menjadi penting untuk mengurangi penggunaan plastik baru dan mengurangi dampaknya terhadap lingkungan."
+    },
+    "trash": {
+      "Deskripsi": "Sampah organik terdiri dari bahan-bahan yang dapat terurai secara alami, seperti sisa makanan, daun, dan bahan organik lainnya.",
+      "Daur Ulang": "Tidak umum didaur ulang, melainkan dikomposkan.",
+      "Pembuangan": "Dibuang ke tempat sampah organik.",
+      "Cara Daur Ulang": "Sampah organik umumnya bisa didaur ulang melalui proses pengomposan. Pengomposan adalah proses biologis di mana sampah organik terurai oleh mikroorganisme menjadi humus yang berguna sebagai pupuk alami. Selama pengomposan, sampah organik ditempatkan dalam lingkungan yang sesuai dengan kelembaban dan oksigen yang cukup.",
+      "Dampak Lingkungan": "Pengomposan sampah organik dapat mengurangi jumlah sampah di tempat pembuangan akhir dan menghasilkan pupuk alami untuk meningkatkan kesuburan tanah."
+    }
+}
+  
